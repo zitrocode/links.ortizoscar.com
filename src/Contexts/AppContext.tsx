@@ -1,5 +1,5 @@
 import { createContext } from "react";
-import Layout from "../components/Layout";
+import Layout from "../layouts/layout.main";
 import useLang, { ILanguageOptions } from "../hooks/useLang";
 
 interface IAppContext {

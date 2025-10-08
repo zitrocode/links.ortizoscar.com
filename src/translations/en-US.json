@@ -1,0 +1,46 @@
+{
+  "description": "Full-Stack Developer & UI Designer, passionate about Open Source.",
+  "groups": [
+    {
+      "name": "Latest Project",
+      "description": "Welcome to Pixelino, where creativity in pixel art and animation comes to life!✨",
+      "links": [
+        {
+          "name": "Banner Pixelino",
+          "url": "https://zitrocodee.itch.io/pixelino",
+          "image": {
+            "url": "https://img.itch.zone/aW1nLzE0MTc4Nzc3LnBuZw==/original/%2BbPXro.png"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Let's Work Together",
+      "description": "Got a project in mind? Tell me! I'm ready to collaborate with you. 🚀",
+      "links": [
+        {
+          "name": "Contact me",
+          "url": "mailto:dev.oscarortiz@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Support My Projects",
+      "description": "Join my creative journey! ✨ Support my projects and let's make the magic happen together. Your contribution makes a difference! 🚀",
+      "links": [
+        {
+          "name": "PayPal",
+          "url": "https://paypal.me/zitrocode"
+        },
+        {
+          "name": "GitHub Sponsor",
+          "url": "https://github.com/sponsors/zitrocode"
+        },
+        {
+          "name": "Buy Me A Coffee",
+          "url": "https://www.buymeacoffee.com/zitrocode"
+        }
+      ]
+    }
+  ]
+}

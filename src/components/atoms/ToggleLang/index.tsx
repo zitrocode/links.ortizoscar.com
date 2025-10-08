@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { Language } from "iconoir-react";
 
-import AppContext from "../../Contexts/AppContext";
+import AppContext from "../../../contexts/AppContext";
 
 import "./toggleLang.style.css";
 

@@ -1,10 +1,10 @@
 import { useContext } from "react";
-import AppContext from "../../Contexts/AppContext";
+import AppContext from "../../../contexts/AppContext";
 
 import "./header.style.css";
-import ToggleLang from "../ToggleLang";
+import ToggleLang from "../../atoms/ToggleLang";
 
-import profile from "../../../profile/info.json";
+import profile from "../../../../profile/info.json";
 import { SocialIcon } from "react-social-icons";
 
 const Header = () => {

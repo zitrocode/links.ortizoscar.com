@@ -1,10 +1,10 @@
 import { useContext } from "react";
 
-import AppContext from "./Contexts/AppContext";
+import AppContext from "./contexts/AppContext";
 
-import Group from "./components/Group";
-import Link from "./components/Link";
-import Text from "./components/Text";
+import Group from "./components/molecules/Group";
+import Link from "./components/atoms/Link";
+import Text from "./components/atoms/Text";
 
 /** Assets files */
 import "./App.css";
